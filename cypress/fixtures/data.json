@@ -1,0 +1,10 @@
+{
+    "validAbnSearch" : {
+        "abn" : "55608392212",
+        "entityName" : "GWAPO PTY LTD",
+        "abnStatus" : "Active from 18 Mar 2016",
+        "entityType" : "Australian Private Company",
+        "goodsAndServices" : "Registered from 01 Jul 2016",
+        "businessLocation" : "SA 5008"
+    }
+}
