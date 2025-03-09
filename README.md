@@ -16,15 +16,13 @@ Visual Studio Code (Recommended): Download VS Code
 
 1️⃣ Clone the Repository
 
- git clone <repository_url>
+ git clone <https://github.com/maximomalirongjr/Fiable.git>
 
 2️⃣ Navigate to the Project Directory
 
- cd <repository_name>
+ cd Fiable
 
 3️⃣ Open the Project in VS Code (Recommended)
-
- code .
 
 4️⃣ Install Cypress
 
